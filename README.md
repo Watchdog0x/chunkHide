@@ -1,6 +1,5 @@
 # chunkHide
-![Static Badge](https://img.shields.io/badge/Version-1.0.0-brightgreen?style=for-the-badge&color=rgb(93%2C%2063%2C%20211))
-
+![Static Badge](https://img.shields.io/badge/Version-1.0.0-brightgreen?style=for-the-badge&labelColor=%23161B22&color=rgb(93%2C%2063%2C%20211))
 
 `chunkHide` is a command-line utility for modifying PNG image files by manipulating chunks. 
 It allows you to add, modify, or read text chunks in a PNG image.
